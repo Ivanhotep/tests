@@ -104,6 +104,7 @@ public class TestZakaz extends TestInit {
         zakazNovusUltrapasteurizedPageHelper.getFirstProduct().click();
         zakazNovusPageHelper.getAddToCartBtn().click();
         zakazNovusPageHelper.getClosePopUp().click();
+        zakazNovusMilkPageHelper.getUltrapasteurizedCategory().click();
     }
 
 }
