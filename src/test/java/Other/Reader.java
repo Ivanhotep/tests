@@ -1,3 +1,5 @@
+package Other;
+
 public class Reader {
     String userFirstName;
     String userSecondName;

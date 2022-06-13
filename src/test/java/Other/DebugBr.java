@@ -1,3 +1,5 @@
+package Other;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.interactions.Actions;
 import org.testng.annotations.Test;

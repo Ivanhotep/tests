@@ -1,13 +1,15 @@
+package Other;
+
 public class Person {
     String fullName;
     int age;
 
     public void move() {
-        System.out.println("Person рухаеєтся\n");
+        System.out.println("Other.Person рухаеєтся\n");
     }
 
     public void talk() {
-        System.out.println("Person говорить\n");
+        System.out.println("Other.Person говорить\n");
     }
 
     public Person() {

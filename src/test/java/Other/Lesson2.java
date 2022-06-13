@@ -1,3 +1,5 @@
+package Other;
+
 public class Lesson2 {
     public static void main(String[] args) {
         byte num1 = 16;

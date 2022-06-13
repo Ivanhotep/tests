@@ -1,3 +1,5 @@
+package Other;
+
 public class Benchmark {
     public static void main(String[] args) {
         long startTime = System.currentTimeMillis();

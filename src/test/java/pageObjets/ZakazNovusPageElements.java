@@ -84,7 +84,7 @@ public class ZakazNovusPageElements extends BasePage {
     }
 
     public WebElement getUserNameField() {
-        return getElementByXpath("//input[@data-marker='Mobile Phone or Email']");
+        return getElementByXpath("//input[@data-marker='Mobile Other.Phone or Email']");
     }
 
     public WebElement getUserPasswordField() {

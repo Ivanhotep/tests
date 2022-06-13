@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>test</artifactId>
+    <artifactId>Other.test</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -18,7 +18,7 @@
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
             <version>7.5</version>
-            <scope>test</scope>
+            <scope>Other.test</scope>
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
